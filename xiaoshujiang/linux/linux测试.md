@@ -1,6 +1,6 @@
 ---
 title: linux测试 
-tags: 新建,模板,小书匠
+tags: linux
 grammar_cjkRuby: true
 ---
 
