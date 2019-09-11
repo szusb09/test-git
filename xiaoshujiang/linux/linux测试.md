@@ -6,9 +6,9 @@ grammar_code: true
 ---
 ## 测试1
 aaa
-···java
+```
 
-···
+```
 bbb
 ### 测试2
 ccc
