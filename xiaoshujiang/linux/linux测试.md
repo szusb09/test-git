@@ -2,10 +2,12 @@
 title: linux测试 
 tags: linux
 grammar_cjkRuby: false
+grammar_code: true
 ---
 ## 测试1
 aaa
-···
+···java
+
 ···
 bbb
 ### 测试2
