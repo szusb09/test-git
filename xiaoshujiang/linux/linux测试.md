@@ -1,7 +1,7 @@
 ---
 title: linux测试 
 tags: linux
-grammar_cjkRuby: true
+grammar_cjkRuby: false
 ---
 
 
